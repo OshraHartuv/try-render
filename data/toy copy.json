@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "MXju9",
+    "name": "ApplesS123",
+    "price": "1000",
+    "labels": ["Doll", "Battery Powered", "Baby"],
+    "inStock": true,
+    "reviews": ["Good", "Nice", "Fun"]
+  },
+  {
+    "_id": "KiSc6",
+    "name": "Game",
+    "price": "10",
+    "labels": ["On wheels", "Baby"],
+    "inStock": true,
+    "reviews": ["Good", "Nice", "Fun"]
+  },
+  {
+    "name": "Dog",
+    "price": "200",
+    "labels": ["Outdoor"],
+    "inStock": true,
+    "reviews": ["Good", "Nice", "Fun"],
+    "_id": "7V1N0",
+    "createdAt": 1647116885573
+  },
+  {
+    "name": "Robot",
+    "price": "100",
+    "labels": ["Doll", "Puzzle"],
+    "inStock": true,
+    "reviews": ["Good", "Nice", "Fun"],
+    "_id": "FANNU",
+    "createdAt": 1647116865382
+  }
+]

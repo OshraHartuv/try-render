@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "KiSc6",
+    "name": "Game!",
+    "price": "10",
+    "labels": [
+      "On wheels",
+      "Baby"
+    ],
+    "inStock": true,
+    "reviews": [
+      "Good",
+      "Nice",
+      "Fun"
+    ]
+  },
+  {
+    "name": "Dog",
+    "price": "200",
+    "labels": [
+      "Outdoor"
+    ],
+    "inStock": true,
+    "reviews": [
+      "Good",
+      "Nice",
+      "Fun"
+    ],
+    "_id": "7V1N0",
+    "createdAt": 1647116885573
+  },
+  {
+    "_id": "FANNU",
+    "name": "Robot",
+    "price": "1005",
+    "labels": [
+      "Doll",
+      "Puzzle"
+    ],
+    "inStock": true,
+    "reviews": [
+      "Good",
+      "Nice",
+      "Fun"
+    ]
+  }
+]
